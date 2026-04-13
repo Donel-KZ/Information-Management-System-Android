@@ -1,0 +1,6 @@
+## 🎥 Demo
+This app allows university staff to:
+- Register new students into an SQLite database
+- View all stored records
+- Update student information using ID
+- Delete records securely
